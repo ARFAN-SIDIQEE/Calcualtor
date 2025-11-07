@@ -36,27 +36,7 @@ This project demonstrates fundamental web development skills including DOM manip
 
 
 
-## 🧩 How to Use
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/calculator.git
-   ```
-2. Open the project folder:
-
-   ```bash
-   cd calculator
-   ```
-3. Open `index.html` in your browser:
-
-   ```bash
-   start index.html
-   ```
-
-
-
----
 
 ## 👨‍💻 Author
 

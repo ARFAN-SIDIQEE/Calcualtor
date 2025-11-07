@@ -41,7 +41,7 @@ This project demonstrates fundamental web development skills including DOM manip
 ## 👨‍💻 Author
 
 
-📧 Email: [your.email@example.com](mailto:your.email@example.com)
+📧 Email: [arfansidiee@gmailcom]
 🌐 GitHub:https://github.com/Arfan-Sidiqeekamboja/Arfan-Sidiqee/blob/main/README.md
 
 ---
